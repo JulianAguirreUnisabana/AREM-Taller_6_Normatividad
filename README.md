@@ -1,5 +1,5 @@
 # Desarrollo del Taller 6: Checklist de Cumplimiento Normativo SOLO parte 1
-La explicación de esta parte se encuentra en el archivo Markdown [Notas](clase/notas.md) y el diagrama en [Diagrama]().
+La explicación de esta parte se encuentra en el archivo Markdown [Notas](clase/notas.md).
 
 Nombres de los integrantes del grupo:
 - Brayan Presiga 
